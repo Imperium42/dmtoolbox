@@ -6,7 +6,7 @@ _____________________________________
 
 TODO: Reorganize hierarchy
 <br><br>
-TODO: Convert to a more modern coding engine (currently using an obsolete version 1 of "AppInventor" by MIT
+TODO: Convert to a more modern coding engine (currently using an obsolete version 1 of "AppInventor" by MIT (THUNKABLE? Their new project. They just offered a new migration method @ http://thunkable.com/explore/ai2/migrate-from-mitai.html)
 Good luck, mates :)
 
 _____________________________________
