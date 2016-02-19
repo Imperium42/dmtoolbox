@@ -5,7 +5,10 @@ Dungeon Master's Toolbox, or DMToolbox (DMT) for ANDROID @ https://play.google.c
 <img src="https://i.imgur.com/oF3jn3M.png">
 _____________________________________
 
-<h2>QUICKSTART</h2>
+<h2>QUICKSTART FOR DEVELOPERS</h2>
+
+(Note: This is NOT consumer-friendly -- this repo is for devs)
+
 1 >> Go to ./#src/ and download this all
 
 2 >> ./#src/assets/ folder contains all officially used assets
