@@ -12,7 +12,7 @@ _____________________________________
 
 3 >> Download App Inventor *VERSION 1* [Obsolete - just Google it]
   >> OR (recommended) find a way to modernize it so you don't use app inventor (see TODO below for clues)
-  >> OR use the attached ai personal server (2 servers - sometimes 1 is buggy) in ./#src
+  >> OR use the attached ai personal serverin ./#src/__AIServer/
 
 4 >> Open the .aia file in ./#src and good to go!
 
