@@ -1,5 +1,5 @@
 # dmtoolbox
-Dungeon Master's Toolbox, or DMToolbox (DMT) @ https://play.google.com/store/apps/details?id=appinventor.ai_dylanh724.DMToolbox_Premium
+Dungeon Master's Toolbox, or DMToolbox (DMT) for ANDROID @ https://play.google.com/store/apps/details?id=appinventor.ai_dylanh724.DMToolbox_Premium
 
 <img src="https://i.imgur.com/oF3jn3M.png">
 _____________________________________
