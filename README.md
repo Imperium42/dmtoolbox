@@ -4,9 +4,9 @@ Dungeon Master's Toolbox, or DMToolbox (DMT) @ https://play.google.com/store/app
 <img src="https://i.imgur.com/SugWoGr.png">
 _____________________________________
 
-TODO: Reorganize hierarchy
+<strong>TODO:</strong> Reorganize hierarchy
 <br><br>
-TODO: Convert to a more modern coding engine (currently using an obsolete version 1 of "AppInventor" by MIT (THUNKABLE? Their new project. They just offered a new migration method @ http://thunkable.com/explore/ai2/migrate-from-mitai.html)
+<strong>TODO:</strong> Convert to a more modern coding engine (currently using an obsolete version 1 of "AppInventor" by MIT (THUNKABLE? Their new project. They just offered a new migration method @ http://thunkable.com/explore/ai2/migrate-from-mitai.html)
 Good luck, mates :)
 
 _____________________________________
