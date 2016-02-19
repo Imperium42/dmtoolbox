@@ -1,0 +1,61 @@
+<!DOCTYPE YACodeBlocks SYSTEM "support/save_format.dtd">
+<YACodeBlocks ya-version="76" lang-version="17">
+<Pages><Page page-name=" " page-color="237 245 211" page-width="3726" page-height="2994" page-drawer="My Definitions" >
+<PageBlocks>
+<Block id="8567" genus-name="Screen-BackPressed" >
+<Location><X>268</X><Y>128</Y></Location>
+<Label>MapForm.BackPressed</Label>
+<Sockets num-sockets="1" >
+<BlockConnector connector-kind="socket" connector-type="cmd" init-type="cmd" label="do" is-indented="yes" position-type="single" con-block-id="8571" ></BlockConnector>
+</Sockets>
+</Block>
+<Block id="8571" genus-name="open-another-screen" >
+<Location><X>296</X><Y>161</Y></Location>
+<Label>open another screen</Label>
+<BeforeBlockId>8567</BeforeBlockId>
+<Sockets num-sockets="1" >
+<BlockConnector connector-kind="socket" connector-type="poly" init-type="poly" label="screenName" position-type="single" con-block-id="8573" ></BlockConnector>
+</Sockets>
+</Block>
+<Block id="8573" genus-name="text" >
+<Location><X>532</X><Y>164</Y></Location>
+<Label>Screen1</Label>
+<Plug><BlockConnector connector-kind="plug" connector-type="poly" init-type="poly" label="" position-type="single" con-block-id="8571" ></BlockConnector></Plug>
+</Block>
+<Block id="8619" genus-name="text" >
+<Location><X>499</X><Y>268</Y></Location>
+<Label>Wtf, how did you get here?\\nNot ready!\\nGo away ;)</Label>
+<Plug><BlockConnector connector-kind="plug" connector-type="poly" init-type="poly" label="" position-type="single" con-block-id="8617" ></BlockConnector></Plug>
+</Block>
+<Block id="8617" genus-name="Notifier-ShowAlert" >
+<Location><X>303</X><Y>265</Y></Location>
+<Label>Notifier1.ShowAlert</Label>
+<BeforeBlockId>8575</BeforeBlockId>
+<Sockets num-sockets="1" >
+<BlockConnector connector-kind="socket" connector-type="poly" init-type="poly" label="notice" position-type="single" con-block-id="8619" ></BlockConnector>
+</Sockets>
+</Block>
+<Block id="8575" genus-name="Screen-Initialize" >
+<Location><X>275</X><Y>232</Y></Location>
+<Label>MapForm.Initialize</Label>
+<Sockets num-sockets="1" >
+<BlockConnector connector-kind="socket" connector-type="cmd" init-type="cmd" label="do" is-indented="yes" position-type="single" con-block-id="8617" ></BlockConnector>
+</Sockets>
+</Block>
+</PageBlocks>
+</Page>
+
+</Pages><YoungAndroidMaps><YoungAndroidUuidMap>
+<YoungAndroidUuidEntry uuid="-1196255409" component-id="ClearSprite" component-genus="ImageSprite" component-version="6" ></YoungAndroidUuidEntry>
+<YoungAndroidUuidEntry uuid="893853132" component-id="adButton" component-genus="Button" component-version="5" ></YoungAndroidUuidEntry>
+<YoungAndroidUuidEntry uuid="0" component-id="MapForm" component-genus="Form" component-version="0" ></YoungAndroidUuidEntry>
+<YoungAndroidUuidEntry uuid="37600568" component-id="ScaleSprite" component-genus="ImageSprite" component-version="6" ></YoungAndroidUuidEntry>
+<YoungAndroidUuidEntry uuid="888248072" component-id="Notifier1" component-genus="Notifier" component-version="2" ></YoungAndroidUuidEntry>
+<YoungAndroidUuidEntry uuid="599964191" component-id="Ball1" component-genus="Ball" component-version="5" ></YoungAndroidUuidEntry>
+<YoungAndroidUuidEntry uuid="637205655" component-id="VerticalArrangement1" component-genus="VerticalArrangement" component-version="2" ></YoungAndroidUuidEntry>
+<YoungAndroidUuidEntry uuid="-116742038" component-id="MapCanvas" component-genus="Canvas" component-version="7" ></YoungAndroidUuidEntry>
+<YoungAndroidUuidEntry uuid="-1371871434" component-id="ClearSound" component-genus="Sound" component-version="3" ></YoungAndroidUuidEntry>
+<YoungAndroidUuidEntry uuid="1208311663" component-id="HorizontalArrangement1" component-genus="HorizontalArrangement" component-version="2" ></YoungAndroidUuidEntry>
+</YoungAndroidUuidMap>
+</YoungAndroidMaps>
+</YACodeBlocks>
