@@ -1,4 +1,7 @@
-# dmtoolbox
+# Quick Note
+Imperium42 is working on their new flagship title, <a href="http://throneofli.es/game">Throne of Lies: The Online Game of Lies and Deceit</a> ~ Check us out and support us in our Kickstarter this September! PC/Mac/Linux
+
+# DMToolbox
 <h2>ABOUT</h2>
 Dungeon Master's Toolbox, or DMToolbox (DMT) for ANDROID @ https://play.google.com/store/apps/details?id=appinventor.ai_dylanh724.DMToolbox_Premium
 
