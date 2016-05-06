@@ -1,5 +1,6 @@
 # Quick Note
-Imperium42 is working on their new flagship title, <a href="http://throneofli.es/game">Throne of Lies: The Online Game of Lies and Deceit</a> ~ Check us out and support us in our Kickstarter this September! PC/Mac/Linux
+<img src="http://i.imgur.com/uAezrLz.jpg" style="float:left;">
+<a href="http://throneofli.es/i42">Imperium42 Game Studio</a> is working on their new flagship title, <a href="http://throneofli.es/game">Throne of Lies: The Online Game of Lies and Deceit</a> ~ Check us out and support us in our Kickstarter this September! PC/Mac/Linux
 
 # DMToolbox
 <h2>ABOUT</h2>
