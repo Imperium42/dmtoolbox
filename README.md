@@ -1,7 +1,3 @@
-# Quick Note
-![Throne of Lies](http://i.imgur.com/uAezrLz.jpg)
-<a href="http://throneofli.es/i42">Imperium42 Game Studio</a> is working on their new flagship title, <a href="http://throneofli.es/game">Throne of Lies: The Online Game of Lies and Deceit</a> ~ Check us out and support us in our Kickstarter this September! PC/Mac/Linux
-
 # DMToolbox
 <h2>ABOUT</h2>
 Dungeon Master's Toolbox, or DMToolbox (DMT) for ANDROID @ https://play.google.com/store/apps/details?id=appinventor.ai_dylanh724.DMToolbox_Premium
@@ -9,6 +5,12 @@ Dungeon Master's Toolbox, or DMToolbox (DMT) for ANDROID @ https://play.google.c
 >> SCROLL DOWN FOR FREE KEY FOR ORIGINAL VERSiON <<
 
 <img src="https://i.imgur.com/oF3jn3M.png">
+_____________________________________
+
+<h2>Quick Note</h2>
+![Throne of Lies](http://i.imgur.com/uAezrLz.jpg)
+
+<a href="http://throneofli.es/i42">Imperium42 Game Studio</a> is working on their new flagship title, <a href="http://throneofli.es/game">Throne of Lies: The Online Game of Lies and Deceit</a> ~ Check us out and support us in our Kickstarter this September! PC/Mac/Linux
 _____________________________________
 
 <h2>QUICKSTART FOR DEVELOPERS</h2>
