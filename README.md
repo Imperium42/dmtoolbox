@@ -2,6 +2,8 @@
 <h2>ABOUT</h2>
 Dungeon Master's Toolbox, or DMToolbox (DMT) for ANDROID @ https://play.google.com/store/apps/details?id=appinventor.ai_dylanh724.DMToolbox_Premium
 
+Before we begin, I deeply apologize that I didn't have enough time to organize through this better. I'll get around to it, one day.
+
 >> SCROLL DOWN FOR FREE KEY FOR ORIGINAL VERSiON <<
 
 <img src="https://i.imgur.com/oF3jn3M.png">
