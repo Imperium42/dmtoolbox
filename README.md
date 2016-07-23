@@ -99,3 +99,9 @@ LFARJ0UR3F6DC5HE4X2KC89
 7LLGELZZ9HDZVZRLRSD4JLX
 R8567TQS9CRD4ZYEYRB2W0C
 CC857YXMM3LR202BJMKV3FL
+
+_________________________________________
+
+Screenshot of logic blocks (demo of how ads work):
+
+<img src="https://i.imgur.com/23m7yop.png">
